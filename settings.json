@@ -1,0 +1,15 @@
+{
+    "r.alwaysUseActiveTerminal": true,
+    "r.workspaceViewer.removeHiddenItems": true,
+    "r.useRenvLibPath": true,
+    "r.rterm.mac": "/usr/local/bin/R"
+},
+{
+    "r.lsp.path": "/usr/local/bin/Rscript",
+    "r.lsp.debug": false,  
+    "r.lsp.diagnostics": true
+},
+{
+    "r.plot.useHttpgd": true, 
+    "r.plot.viewer": null  // Other options could be set depending on your needs
+}
