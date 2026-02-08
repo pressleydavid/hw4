@@ -179,3 +179,14 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# ST554 - Course-specific ignores
+*.sas7bdat
+*.parquet
+data/
+.DS_Store
+
+# Google Drive artifacts
+*.gdoc
+*.gsheet
+*.gslides
+Icon*
